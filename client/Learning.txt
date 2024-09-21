@@ -1,0 +1,17 @@
+css include new method that i have not used till know
+use of useHistory() instead of link or navlink in routing
+cors error when dealing with two differnt server for frontend it is localhost 5173 and backend it is localhost3000
+ <input type="text" name="aadharCardNumber" placeholder="Aadhar Number" style={inputStyle} />
+ importancce of name this problem solved in more than 2hour name not matched 
+ in resgistration form 
+   // Collect form data
+        const formData = {
+           
+            aadharNumber: e.target.aadharNumber.value,//this is writtend and due to this i am geeting error
+            aadharCardNumber: e.target.aadharNumber.value,}
+
+Use of Toast notification for succuseful message
+need to know about react modal for pop up feature
+            const response = await axios.post('http://localhost:3000/user/login', {
+                aadharCardNumber,}
+                ALways wrong route takes time http://localhost:3000/user/login' this is correct but i missed user
